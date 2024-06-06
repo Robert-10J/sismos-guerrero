@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css"
+     integrity="sha256-kLaT2GOSpHechhsozzB+flnD+zUyjE2LlfWPgU04xyI="
+     crossorigin=""/>
+    <script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"
+     integrity="sha256-WBkoXOwTeyKclOHuWtc+i2uENFpDZ9YPdf5Hf+D7ewM="
+     crossorigin=""></script>
+    <title>Análisis de Sismos</title>
+  </head>
+<body class="bg-gray-100">
+  <header class="bg-gray-200 py-10 shadow-md text-center flex gap-2 justify-between">
+    <a href="index.html">
+      <h1 class="font-bold text-3xl px-4">Análisis de Sismos en el Estado de Guerrero</h1>
+    </a>
+    <nav class="px-5 flex gap-5 font-bold">
+      <a href="/nested/graficas.html" class="hover:text-amber-500">Gráficas</a>
+      <a href="/nested/medidas.html" class="hover:text-amber-500">Medidas</a>
+    </nav>
+  </header>
+
+    <h2 class="text-center m-7 text-4xl font-black">Un Poco Sobre los Sismos</h2>
+    <section class="grid grid-cols-3 gap-3 m-16">
+      <div class="">
+        <div class="m-3 flex items-center gap-2 bg-gray-200 p-5 rounded-md shadow-md">
+          <div>
+            <h2 class="font-bold text-2xl">¿Qué es un sismo?</h2>
+            <p class="text-start">Los sismos son las vibraciones de la tierra ocasionadas por la propagación en el interior o en la superficie de ésta, de varios tipos de ondas. Terremoto o temblor son sinónimos de la palabra sismo.</p>
+          </div>
+          <img src="./public/sismo.png" alt="sismo" class="w-40 h-40">
+        </div>
+      </div>
+
+      <div class="col-span-2">
+        <div class="m-3 flex items-center bg-gray-200 p-5 rounded-md shadow-md">
+          <div>
+            <h2 class="font-bold text-2xl text-center">¿Por qué suceden?</h2>
+            <p class="text-start">Los sismos ocurren porque la tierra está cubierta por una capa rocosa conocida como litosfera, con espesor hasta de 100km, la cual está fragmentada en grandes porciones llamadas placas tectónicas. La movilidad de éstas ocasiona que en los bordes, donde las placas hacen contacto, se generen esfuerzos de fricción que impiden el desplazamiento de una respecto a la otra. Si dichos esfuerzos sobrepasan la resistencia de las rocas, o se vencen las fuerzas friccionantes, ocurre una ruptura violenta y la liberación repentina de la energía acumulada.</p>
+          </div>
+          <img src="./public/origen.png" alt="Imagen por qué suceden los sismos" class="w-40 h-40">
+        </div>
+      </div>
+
+      <div class="col-span-2">
+        <div class="m-3 flex items-center gap-3 bg-gray-200 p-5 rounded-md shadow-md">
+          <img src="./public/deteccion.png" alt="Imagen por qué suceden los sismos" class="w-40 h-40">
+          <div>
+            <h2 class="text-center font-bold text-2xl">¿Cómo se detectan los sismos?</h2>
+            <p class="text-start">Al propagarse la ondas sísmicas provocan el movimiento del suelo por donde pasan. Para registrar estos movimientos se utilizan equipos denominados sismógrafos o acelerógrafos, cuyo principio de operación, basado en la inercia de los cuerpos, consiste de una masa suspendida por un resorte que le permite permanecer en reposo por algunos instantes con respecto al movimiento del suelo.</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="">
+        <div class="m-3 flex items-center bg-gray-200 p-5 rounded-md shadow-md">
+          <div>
+            <h2 class="font-bold text-2xl">¿Cómo se determina la magnitud de un sismo?</h2>
+            <p class="text-start">La magnitud de un temblor está relacionada con la energía liberada en forma de ondas sísmicas que se propagan a través del suelo. Para calcular esta energía y determinar la magnitud se realizan cálculos matemáticos.</p>
+          </div>
+          <img src="./public/magnitud.png" alt="Imagen por qué suceden los sismos" class="w-40 h-40">
+        </div>
+      </div>
+
+      <div class="">
+        <div class="m-3 flex items-center bg-gray-200 p-5 rounded-md shadow-md">
+          <div>
+            <h2 class="font-bold text-2xl">¿Se pueden predecir los sismos?</h2>
+            <p class="text-start">Hasta hoy, no existe una técnica que permita predecir los sismos. Ni los países como Estados Unidos y 
+            Japón cuya tecnología es muy avanzada, han sido capaces de desarrollar una técnica predictiva de temblores.</p>
+          </div>
+          <img src="./public/prediccion.png" alt="Imagen por qué suceden los sismos" class="w-40 h-40">
+        </div>
+      </div>
+
+      <div class="text-end col-span-2">
+        <div class="m-3 flex gap-4 items-center bg-gray-200 p-5 rounded-md shadow-md">
+          <img src="./public/replica.png" alt="Imagen por qué suceden los sismos" class="w-40 h-40">
+          <div>
+            <h2 class="font-bold text-2xl">¿Es normal que ocurran más sismos en el mismo lugar después de un sismo fuerte?</h2>
+            <p class="text-start">Cuando ocurre un sismo de magnitud considerable, las rocas que se encuentran cerca de la zona de ruptura están sujetas a un reacomodo. Durante este proceso se genera una serie de sismos en esta zona conocidos como Réplicas, las cuales son de menor magnitud y pueden ocurrir minutos, días y hasta años después del evento principal. El número de estas réplicas puede variar desde unos cuantos sismos hasta cientos de eventos.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+    
+    <footer class="bg-gray-200 py-10 mt-2">
+      <p class="text-center">
+        “Los datos sismológicos fueron obtenidos por el Servicio Sismológico Nacional (México). Agradecemos a todo el personal del mismo por el mantenimiento de las estaciones, la adquisición y distribución de los datos".
+      </p>
+    </footer>
+
+    <script type="module" src="/main.js"></script>
+    <!-- <script type="module" src="./js/map.js"></script> -->
+</body></html>

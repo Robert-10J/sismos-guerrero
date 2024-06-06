@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css"
+    integrity="sha256-kLaT2GOSpHechhsozzB+flnD+zUyjE2LlfWPgU04xyI=" crossorigin="" />
+  <script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"
+    integrity="sha256-WBkoXOwTeyKclOHuWtc+i2uENFpDZ9YPdf5Hf+D7ewM=" crossorigin=""></script>
+  <title>Sismos - Gráficas</title>
+</head>
+<body>
+  <header class="bg-gray-200 py-10 shadow-md text-center flex gap-2 justify-between">
+    <a href="index.html">
+      <h1 class="font-bold text-3xl px-4">Análisis de Sismos en el Estado de Guerrero</h1>
+    </a>
+    <nav class="px-5 flex gap-5 font-bold">
+      <a href="graficas.html" class="hover:text-amber-500">Gráficas</a>
+      <a href="medidas.html" class="hover:text-amber-500">Medidas</a>
+    </nav>
+  </header>
+  <section class=" flex flex-col items-center" id="graficas">
+    <div id="graficaBarras" class="w-8/12 h-4/5 my-5">
+      <h3 class="text-center uppercase font-extrabold pt-3.5">Cantidad de Sismos por año</h3>
+      <p class="text-justify py-3">El gráfico 1 representa la cantidad de sismos ocurridos por año, en donde, se puede apreciar que el 
+        año en el que ocurrieron más sismos fue el año <span>2021</span> con un total de sismos de <span>5479.</span>
+      </p>
+      <canvas id="lugares"></canvas>
+      <p class="text-center font-serif mt-3">Gráfico 1. Sismos por año</p>
+    </div>
+  
+    <div id="" class="w-8/12 h-4/5 my-5">
+      <h3 class="text-center uppercase font-extrabold">Sismo con magintud máxima por año</h3>
+      <p class="text-justify py-3">El gráfico 2 muestra cual fue el sismo con la magnitud máxima por año. Se puede observar 
+        que el sismo con magnitud máxima fue de <span>7.5</span> en el año del <span>2012</span>.
+      </p>
+      <canvas id="sismosMaxYear"></canvas>
+      <p class="text-center font-serif mt-3">Gráfico 2. Sismo Máximo por Año</p>
+    </div>
+  
+    <div id="grafico3" class="w-8/12 h-4/5 my-5">
+      <h3 class=" text-center uppercase font-extrabold">Total de sismos por Localización</h3>
+      <p class="text-justify py-3">El gráfico 3 muestra el total de sismos ocurridos en una misma localización, 
+        observándose que la localización con mayor sismos es en <span>Ometepec Guerrero</span>, con un total de 
+        <span>10,092</span> sismos. 
+      </p>
+      <canvas id="cantidadSismosLocation"></canvas>
+      <p class="text-center font-serif mb-6">Gráfico 3. Total de Sismos por Localización</p>
+    </div>
+  </section>
+
+  <section id="mapas" class="flex flex-col items-center mx-5 h-max">
+    <h3 class="uppercase font-extrabold">Mapa de visualizacion de los sismos</h3>
+    <p class="text-justify py-3">El mapa que se observa a continuación muestra la representacion de cada uno de los sismos ocurridos del
+      <span>año 2000 al año 2023 </span> en el estado de <span>Guerrero</span>.
+    </p>
+    <div id="map" class="h-96 w-3/4 my-4"></div>
+  </section>
+
+  <footer class="bg-gray-200 py-10 mt-2">
+    <p class="text-center">
+      “Los datos sismológicos fueron obtenidos por el Servicio Sismológico Nacional (México). Agradecemos a todo el
+      personal del mismo por el mantenimiento de las estaciones, la adquisición y distribución de los datos".
+    </p>
+  </footer>
+
+  <script type="module" src="../main.js"></script>
+  <script type="module" src="./map.js"></script>
+  
+</body></html>

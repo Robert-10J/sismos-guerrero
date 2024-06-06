@@ -1,0 +1,497 @@
+[
+  {
+    "magnitud": 5.2,
+    "fecha": "05/03/2001",
+    "reflocalizacion": "14 km al NORTE de COYUCA DE BENITEZ, GRO"
+  },
+  {
+    "magnitud": 5.3,
+    "fecha": "06/03/2001",
+    "reflocalizacion": "15 km al NORTE de COYUCA DE BENITEZ, GRO"
+  },
+  {
+    "magnitud": 6.1,
+    "fecha": "07/10/2001",
+    "reflocalizacion": "9 km al SUROESTE de COYUCA DE BENITEZ, GRO"
+  },
+  {
+    "magnitud": 5.4,
+    "fecha": "28/10/2001",
+    "reflocalizacion": "11 km al OESTE de COYUCA DE BENITEZ, GRO"
+  },
+  {
+    "magnitud": 5.1,
+    "fecha": "23/11/2001",
+    "reflocalizacion": "12 km al SUROESTE de COYUCA DE BENITEZ, GRO"
+  },
+  {
+    "magnitud": 6.5,
+    "fecha": "18/04/2002",
+    "reflocalizacion": "72 km al SUROESTE de TECPAN, GRO"
+  },
+  {
+    "magnitud": 5.3,
+    "fecha": "18/04/2002",
+    "reflocalizacion": "39 km al SUR de PETATLAN, GRO"
+  },
+  {
+    "magnitud": 6.0,
+    "fecha": "18/04/2002",
+    "reflocalizacion": "115 km al SUROESTE de ZIHUATANEJO, GRO"
+  },
+  {
+    "magnitud": 5.5,
+    "fecha": "18/04/2002",
+    "reflocalizacion": "85 km al SUROESTE de PETATLAN, GRO"
+  },
+  {
+    "magnitud": 5.1,
+    "fecha": "28/05/2002",
+    "reflocalizacion": "59 km al SUROESTE de SAN MARCOS, GRO"
+  },
+  {
+    "magnitud": 5.3,
+    "fecha": "30/08/2002",
+    "reflocalizacion": "67 km al SUROESTE de TECPAN, GRO"
+  },
+  {
+    "magnitud": 5.3,
+    "fecha": "25/09/2002",
+    "reflocalizacion": "17 km al SUR de COYUCA DE BENITEZ, GRO"
+  },
+  {
+    "magnitud": 5.4,
+    "fecha": "27/09/2002",
+    "reflocalizacion": "8 km al SURESTE de TECPAN, GRO"
+  },
+  {
+    "magnitud": 5.2,
+    "fecha": "04/11/2002",
+    "reflocalizacion": "44 km al SUR de ZIHUATANEJO, GRO"
+  },
+  {
+    "magnitud": 5.1,
+    "fecha": "06/11/2002",
+    "reflocalizacion": "124 km al SUR de SAN MARCOS, GRO"
+  },
+  {
+    "magnitud": 5.5,
+    "fecha": "09/12/2002",
+    "reflocalizacion": "14 km al SUR de PETATLAN, GRO"
+  },
+  {
+    "magnitud": 5.3,
+    "fecha": "09/01/2003",
+    "reflocalizacion": "23 km al OESTE de COYUCA DE BENITEZ, GRO"
+  },
+  {
+    "magnitud": 6.3,
+    "fecha": "01/01/2004",
+    "reflocalizacion": "27 km al SUROESTE de PETATLAN, GRO"
+  },
+  {
+    "magnitud": 5.8,
+    "fecha": "01/01/2004",
+    "reflocalizacion": "28 km al SUROESTE de PETATLAN, GRO"
+  },
+  {
+    "magnitud": 5.0,
+    "fecha": "20/02/2006",
+    "reflocalizacion": "26 km al SUROESTE de CD ALTAMIRANO, GRO"
+  },
+  {
+    "magnitud": 5.1,
+    "fecha": "18/11/2006",
+    "reflocalizacion": "128 km al SUR de SAN MARCOS, GRO"
+  },
+  {
+    "magnitud": 5.6,
+    "fecha": "13/04/2007",
+    "reflocalizacion": "10 km al SURESTE de ATOYAC DE ALVAREZ, GRO"
+  },
+  {
+    "magnitud": 5.3,
+    "fecha": "13/04/2007",
+    "reflocalizacion": "16 km al SURESTE de ATOYAC DE ALVAREZ, GRO"
+  },
+  {
+    "magnitud": 5.1,
+    "fecha": "19/04/2007",
+    "reflocalizacion": "33 km al SUR de PETATLAN, GRO"
+  },
+  {
+    "magnitud": 5.6,
+    "fecha": "06/11/2007",
+    "reflocalizacion": "9 km al SUROESTE de COYUCA DE BENITEZ, GRO"
+  },
+  {
+    "magnitud": 5.2,
+    "fecha": "23/09/2008",
+    "reflocalizacion": "52 km al SUROESTE de ACAPULCO, GRO"
+  },
+  {
+    "magnitud": 5.0,
+    "fecha": "20/10/2008",
+    "reflocalizacion": "42 km al SUR de PETATLAN, GRO"
+  },
+  {
+    "magnitud": 5.2,
+    "fecha": "31/01/2009",
+    "reflocalizacion": "41 km al OESTE de ZIHUATANEJO, GRO"
+  },
+  {
+    "magnitud": 5.3,
+    "fecha": "27/03/2009",
+    "reflocalizacion": "27 km al NOROESTE de TECPAN, GRO"
+  },
+  {
+    "magnitud": 5.7,
+    "fecha": "27/04/2009",
+    "reflocalizacion": "26 km al NOROESTE de SAN MARCOS, GRO"
+  },
+  {
+    "magnitud": 5.4,
+    "fecha": "15/08/2009",
+    "reflocalizacion": "34 km al SUR de CD ALTAMIRANO, GRO"
+  },
+  {
+    "magnitud": 5.0,
+    "fecha": "25/05/2010",
+    "reflocalizacion": "44 km al SURESTE de PETATLAN, GRO"
+  },
+  {
+    "magnitud": 5.5,
+    "fecha": "26/04/2011",
+    "reflocalizacion": "29 km al SURESTE de ACAPULCO, GRO"
+  },
+  {
+    "magnitud": 5.5,
+    "fecha": "05/05/2011",
+    "reflocalizacion": "54 km al OESTE de OMETEPEC, GRO"
+  },
+  {
+    "magnitud": 5.2,
+    "fecha": "18/06/2011",
+    "reflocalizacion": "26 km al NOROESTE de SAN MARCOS, GRO"
+  },
+  {
+    "magnitud": 6.5,
+    "fecha": "10/12/2011",
+    "reflocalizacion": "50 km al NOROESTE de ZUMPANGO DEL RIO, GRO"
+  },
+  {
+    "magnitud": 7.5,
+    "fecha": "20/03/2012",
+    "reflocalizacion": "46 km al SUR de OMETEPEC, GRO"
+  },
+  {
+    "magnitud": 5.2,
+    "fecha": "20/03/2012",
+    "reflocalizacion": "59 km al SUROESTE de OMETEPEC, GRO"
+  },
+  {
+    "magnitud": 5.0,
+    "fecha": "01/04/2012",
+    "reflocalizacion": "28 km al SUROESTE de OMETEPEC, GRO"
+  },
+  {
+    "magnitud": 6.0,
+    "fecha": "02/04/2012",
+    "reflocalizacion": "45 km al SUROESTE de OMETEPEC, GRO"
+  },
+  {
+    "magnitud": 5.6,
+    "fecha": "01/05/2012",
+    "reflocalizacion": "46 km al SUROESTE de CD ALTAMIRANO, GRO"
+  },
+  {
+    "magnitud": 6.1,
+    "fecha": "15/11/2012",
+    "reflocalizacion": "24 km al SURESTE de CD ALTAMIRANO, GRO"
+  },
+  {
+    "magnitud": 5.0,
+    "fecha": "15/01/2013",
+    "reflocalizacion": "23 km al SUROESTE de OMETEPEC, GRO"
+  },
+  {
+    "magnitud": 5.3,
+    "fecha": "04/04/2013",
+    "reflocalizacion": "23 km al SUROESTE de TECPAN, GRO"
+  },
+  {
+    "magnitud": 5.2,
+    "fecha": "11/04/2013",
+    "reflocalizacion": "15 km al NOROESTE de ZIHUATANEJO, GRO"
+  },
+  {
+    "magnitud": 5.8,
+    "fecha": "16/06/2013",
+    "reflocalizacion": "24 km al SURESTE de CD DE HUITZUCO, GRO"
+  },
+  {
+    "magnitud": 5.0,
+    "fecha": "01/08/2013",
+    "reflocalizacion": "394 km al SUROESTE de ZIHUATANEJO, GRO"
+  },
+  {
+    "magnitud": 5.0,
+    "fecha": "06/08/2013",
+    "reflocalizacion": "29 km al SUROESTE de OMETEPEC, GRO"
+  },
+  {
+    "magnitud": 5.0,
+    "fecha": "13/08/2013",
+    "reflocalizacion": "23 km al SUROESTE de OMETEPEC, GRO"
+  },
+  {
+    "magnitud": 5.1,
+    "fecha": "16/08/2013",
+    "reflocalizacion": "27 km al SUROESTE de OMETEPEC, GRO"
+  },
+  {
+    "magnitud": 6.0,
+    "fecha": "21/08/2013",
+    "reflocalizacion": "21 km al OESTE de SAN MARCOS, GRO"
+  },
+  {
+    "magnitud": 5.0,
+    "fecha": "21/08/2013",
+    "reflocalizacion": "26 km al SURESTE de ACAPULCO, GRO"
+  },
+  {
+    "magnitud": 5.0,
+    "fecha": "06/10/2013",
+    "reflocalizacion": "20 km al SUR de COYUCA DE BENITEZ, GRO"
+  },
+  {
+    "magnitud": 5.0,
+    "fecha": "30/11/2013",
+    "reflocalizacion": "33 km al SUROESTE de ZIHUATANEJO, GRO"
+  },
+  {
+    "magnitud": 5.4,
+    "fecha": "30/11/2013",
+    "reflocalizacion": "41 km al SUROESTE de ZIHUATANEJO, GRO"
+  },
+  {
+    "magnitud": 7.2,
+    "fecha": "18/04/2014",
+    "reflocalizacion": "61 km al SUROESTE de PETATLAN, GRO"
+  },
+  {
+    "magnitud": 5.2,
+    "fecha": "19/04/2014",
+    "reflocalizacion": "21 km al SUR de PETATLAN, GRO"
+  },
+  {
+    "magnitud": 6.5,
+    "fecha": "08/05/2014",
+    "reflocalizacion": "40 km al SUROESTE de TECPAN, GRO"
+  },
+  {
+    "magnitud": 5.1,
+    "fecha": "08/05/2014",
+    "reflocalizacion": "18 km al NOROESTE de TECPAN, GRO"
+  },
+  {
+    "magnitud": 6.1,
+    "fecha": "10/05/2014",
+    "reflocalizacion": "35 km al SUROESTE de TECPAN, GRO"
+  },
+  {
+    "magnitud": 5.0,
+    "fecha": "19/05/2014",
+    "reflocalizacion": "37 km al SURESTE de ARCELIA, GRO"
+  },
+  {
+    "magnitud": 5.2,
+    "fecha": "22/07/2014",
+    "reflocalizacion": "67 km al SUROESTE de COYUCA DE BENITEZ, GRO"
+  },
+  {
+    "magnitud": 5.0,
+    "fecha": "03/08/2014",
+    "reflocalizacion": "24 km al SUROESTE de TECPAN, GRO"
+  },
+  {
+    "magnitud": 5.5,
+    "fecha": "30/09/2015",
+    "reflocalizacion": "22 km al NORTE de ZIHUATANEJO, GRO"
+  },
+  {
+    "magnitud": 5.6,
+    "fecha": "23/11/2015",
+    "reflocalizacion": "53 km al ESTE de SAN MARCOS, GRO"
+  },
+  {
+    "magnitud": 6.6,
+    "fecha": "28/04/2016",
+    "reflocalizacion": "837 km al SUROESTE de TECPAN, GRO"
+  },
+  {
+    "magnitud": 5.0,
+    "fecha": "19/07/2016",
+    "reflocalizacion": "26 km al SUROESTE de TLAPA, GRO"
+  },
+  {
+    "magnitud": 5.0,
+    "fecha": "12/01/2017",
+    "reflocalizacion": "17 km al SUROESTE de OMETEPEC, GRO"
+  },
+  {
+    "magnitud": 5.0,
+    "fecha": "13/02/2017",
+    "reflocalizacion": "23 km al NORESTE de ACAPULCO, GRO"
+  },
+  {
+    "magnitud": 5.0,
+    "fecha": "12/05/2017",
+    "reflocalizacion": "48 km al SURESTE de SAN MARCOS, GRO"
+  },
+  {
+    "magnitud": 5.3,
+    "fecha": "17/05/2017",
+    "reflocalizacion": "405 km al SUROESTE de ZIHUATANEJO, GRO"
+  },
+  {
+    "magnitud": 5.1,
+    "fecha": "24/05/2017",
+    "reflocalizacion": "27 km al NOROESTE de ZIHUATANEJO, GRO"
+  },
+  {
+    "magnitud": 5.3,
+    "fecha": "18/08/2017",
+    "reflocalizacion": "39 km al SUR de ATOYAC DE ALVAREZ, GRO"
+  },
+  {
+    "magnitud": 5.0,
+    "fecha": "25/12/2017",
+    "reflocalizacion": "14 km al NORESTE de ACAPULCO, GRO"
+  },
+  {
+    "magnitud": 5.1,
+    "fecha": "16/05/2018",
+    "reflocalizacion": "25 km al SUROESTE de ARCELIA, GRO"
+  },
+  {
+    "magnitud": 5.0,
+    "fecha": "20/05/2018",
+    "reflocalizacion": "50 km al NOROESTE de OMETEPEC, GRO"
+  },
+  {
+    "magnitud": 5.2,
+    "fecha": "12/08/2018",
+    "reflocalizacion": "25 km al SUROESTE de TECPAN, GRO"
+  },
+  {
+    "magnitud": 5.3,
+    "fecha": "22/08/2018",
+    "reflocalizacion": "40 km al SUROESTE de OMETEPEC, GRO"
+  },
+  {
+    "magnitud": 5.2,
+    "fecha": "24/09/2018",
+    "reflocalizacion": "49 km al SURESTE de SAN MARCOS, GRO"
+  },
+  {
+    "magnitud": 5.0,
+    "fecha": "24/09/2018",
+    "reflocalizacion": "50 km al SURESTE de SAN MARCOS, GRO"
+  },
+  {
+    "magnitud": 5.1,
+    "fecha": "26/10/2018",
+    "reflocalizacion": "121 km al SURESTE de SAN MARCOS, GRO"
+  },
+  {
+    "magnitud": 5.1,
+    "fecha": "09/03/2019",
+    "reflocalizacion": "6 km al NOROESTE de TECPAN, GRO"
+  },
+  {
+    "magnitud": 5.1,
+    "fecha": "05/10/2019",
+    "reflocalizacion": "31 km al SUROESTE de SAN MARCOS, GRO"
+  },
+  {
+    "magnitud": 5.1,
+    "fecha": "29/01/2020",
+    "reflocalizacion": "25 km al SUR de COYUCA DE BENITEZ, GRO"
+  },
+  {
+    "magnitud": 5.3,
+    "fecha": "30/01/2020",
+    "reflocalizacion": "20 km al SUR de COYUCA DE BENITEZ, GRO"
+  },
+  {
+    "magnitud": 5.0,
+    "fecha": "20/02/2020",
+    "reflocalizacion": "4 km al NOROESTE de ATOYAC DE ALVAREZ, GRO"
+  },
+  {
+    "magnitud": 5.1,
+    "fecha": "29/03/2020",
+    "reflocalizacion": "56 km al SUROESTE de OMETEPEC, GRO"
+  },
+  {
+    "magnitud": 5.0,
+    "fecha": "06/04/2020",
+    "reflocalizacion": "32 km al SUR de PETATLAN, GRO"
+  },
+  {
+    "magnitud": 5.7,
+    "fecha": "19/03/2021",
+    "reflocalizacion": "60 km al SURESTE de SAN MARCOS, GRO"
+  },
+  {
+    "magnitud": 7.1,
+    "fecha": "07/09/2021",
+    "reflocalizacion": "14 km al SUROESTE de ACAPULCO, GRO"
+  },
+  {
+    "magnitud": 5.2,
+    "fecha": "07/09/2021",
+    "reflocalizacion": "4 km al NOROESTE de ACAPULCO, GRO"
+  },
+  {
+    "magnitud": 5.0,
+    "fecha": "07/09/2021",
+    "reflocalizacion": "1 km al NOROESTE de ACAPULCO, GRO"
+  },
+  {
+    "magnitud": 5.0,
+    "fecha": "08/09/2021",
+    "reflocalizacion": "52 km al SUROESTE de ACAPULCO, GRO"
+  },
+  {
+    "magnitud": 5.0,
+    "fecha": "08/09/2021",
+    "reflocalizacion": "17 km al SUROESTE de ACAPULCO, GRO"
+  },
+  {
+    "magnitud": 5.2,
+    "fecha": "12/08/2022",
+    "reflocalizacion": "34 km al SUROESTE de CD ALTAMIRANO, GRO"
+  },
+  {
+    "magnitud": 5.0,
+    "fecha": "13/09/2022",
+    "reflocalizacion": "31 km al SURESTE de PETATLAN, GRO"
+  },
+  {
+    "magnitud": 5.0,
+    "fecha": "14/10/2022",
+    "reflocalizacion": "23 km al SUROESTE de OMETEPEC, GRO "
+  },
+  {
+    "magnitud": 6.0,
+    "fecha": "11/12/2022",
+    "reflocalizacion": "10 km al SUR de TECPAN, GRO"
+  },
+  {
+    "magnitud": 5.1,
+    "fecha": "18/04/2023",
+    "reflocalizacion": "38 km al SURESTE de PETATLAN, GRO"
+  }
+]
